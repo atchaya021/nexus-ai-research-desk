@@ -1,0 +1,54 @@
+{
+  "conservative": {
+    "profile": {
+      "name": "Conservative",
+      "risk_tolerance": "LOW",
+      "investment_horizon": "5+ years",
+      "max_preferred_position_pct": 5,
+      "volatility_tolerance": "LOW"
+    },
+    "portfolio_value": 850000,
+    "holdings": {
+      "RELIANCE": {"quantity": 60, "avg_price": 2650.00, "allocation_pct": 5.0},
+      "HDFCBANK": {"quantity": 120, "avg_price": 1580.00, "allocation_pct": 4.6},
+      "TCS": {"quantity": 25, "avg_price": 3900.00, "allocation_pct": 3.0}
+    },
+    "sector_exposure": {"Energy/Conglomerate": 5.0, "Banking": 4.6, "IT Services": 3.0, "Cash/Other": 87.4},
+    "portfolio_risk_score": 34
+  },
+  "moderate": {
+    "profile": {
+      "name": "Moderate",
+      "risk_tolerance": "MEDIUM",
+      "investment_horizon": "3-5 years",
+      "max_preferred_position_pct": 10,
+      "volatility_tolerance": "MEDIUM"
+    },
+    "portfolio_value": 620000,
+    "holdings": {
+      "RELIANCE": {"quantity": 105, "avg_price": 2720.00, "allocation_pct": 8.0},
+      "ICICIBANK": {"quantity": 140, "avg_price": 1180.00, "allocation_pct": 6.8},
+      "INFOSYS": {"quantity": 90, "avg_price": 1720.00, "allocation_pct": 5.0},
+      "HDFCBANK": {"quantity": 80, "avg_price": 1640.00, "allocation_pct": 4.4}
+    },
+    "sector_exposure": {"Energy/Conglomerate": 8.0, "Banking": 11.2, "IT Services": 5.0, "Cash/Other": 75.8},
+    "portfolio_risk_score": 52
+  },
+  "aggressive": {
+    "profile": {
+      "name": "Aggressive",
+      "risk_tolerance": "HIGH",
+      "investment_horizon": "1-3 years",
+      "max_preferred_position_pct": 20,
+      "volatility_tolerance": "HIGH"
+    },
+    "portfolio_value": 340000,
+    "holdings": {
+      "RELIANCE": {"quantity": 95, "avg_price": 2810.00, "allocation_pct": 16.5},
+      "ICICIBANK": {"quantity": 130, "avg_price": 1210.00, "allocation_pct": 14.9},
+      "INFOSYS": {"quantity": 60, "avg_price": 1790.00, "allocation_pct": 9.8}
+    },
+    "sector_exposure": {"Energy/Conglomerate": 16.5, "Banking": 14.9, "IT Services": 9.8, "Cash/Other": 58.8},
+    "portfolio_risk_score": 71
+  }
+}

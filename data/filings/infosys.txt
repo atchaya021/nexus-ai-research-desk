@@ -1,0 +1,30 @@
+INFOSYS LIMITED — Q1 FY27 EARNINGS SUMMARY (SIMULATED FILING)
+
+Revenue and Growth
+Revenue grew 6.1% year-on-year in constant currency terms, exceeding the upper end of prior guidance.
+Management raised full-year revenue growth guidance, citing strong large-deal signings across Financial
+Services and Manufacturing, and continued momentum in generative AI-linked engagements.
+
+Deal Wins
+Infosys expanded its generative AI partnership with a global banking client during the quarter, and
+reported total large-deal TCV ahead of the year-ago comparable period, indicating a healthier near-term
+revenue visibility than some peers.
+
+Profitability and Margins
+Operating margin came in at 17.2%, with reported margin slightly impacted by adverse cross-currency
+movements. Management reiterated its stated operating margin band and indicated confidence in expanding
+margin through the remainder of the fiscal year via operating leverage.
+
+Balance Sheet
+Debt-to-equity remains low at 0.10x. The company maintains a strong net cash position and continues a
+consistent capital return program via dividends and buybacks.
+
+Valuation Context
+Trailing P/E of approximately 25.3x is slightly below the IT services sector average of 26.0x, which some
+analysts view as attractive given the upgraded growth guidance relative to large-cap IT peers.
+
+Risk Factors Disclosed
+- Currency headwinds affecting reported (though not constant-currency) revenue and margin
+- Client concentration risk in a small number of top accounts
+- Pricing pressure in commoditized application-maintenance services
+- Talent and wage-cost inflation, particularly in AI/data specialist roles

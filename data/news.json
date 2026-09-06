@@ -1,0 +1,145 @@
+{
+  "RELIANCE": {
+    "positive_count": 14,
+    "negative_count": 3,
+    "neutral_count": 9,
+    "institutional_flow": "NET_BUYING",
+    "headlines": [
+      {
+        "title": "Reliance Jio adds 4.2M subscribers in latest quarter",
+        "tone": "positive",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Reliance Retail expands quick-commerce footprint to 40 new cities",
+        "tone": "positive",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "Analysts flag near-term margin pressure in O2C segment",
+        "tone": "negative",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Reliance announces green hydrogen pilot plant commissioning",
+        "tone": "positive",
+        "date": "2026-08-20"
+      }
+    ]
+  },
+  "TCS": {
+    "positive_count": 6,
+    "negative_count": 8,
+    "neutral_count": 10,
+    "institutional_flow": "NET_SELLING",
+    "headlines": [
+      {
+        "title": "TCS deal pipeline softens amid US client budget caution",
+        "tone": "negative",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "TCS wins multi-year BFSI transformation deal in Europe",
+        "tone": "positive",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Attrition ticks up slightly in Q2 print",
+        "tone": "negative",
+        "date": "2026-08-19"
+      }
+    ]
+  },
+  "INFOSYS": {
+    "positive_count": 11,
+    "negative_count": 4,
+    "neutral_count": 7,
+    "institutional_flow": "NET_BUYING",
+    "headlines": [
+      {
+        "title": "Infosys raises FY guidance on strong large-deal wins",
+        "tone": "positive",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Infosys expands generative AI partnership with global bank",
+        "tone": "positive",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "Currency headwinds weigh on reported margin",
+        "tone": "negative",
+        "date": "2026-08-18"
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "positive_count": 9,
+    "negative_count": 5,
+    "neutral_count": 8,
+    "institutional_flow": "NET_BUYING",
+    "headlines": [
+      {
+        "title": "HDFC Bank deposit growth outpaces credit growth for third quarter",
+        "tone": "positive",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Asset quality stable, provisioning coverage improves",
+        "tone": "positive",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "NIM compression concerns persist amid rate cycle",
+        "tone": "negative",
+        "date": "2026-08-17"
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "positive_count": 13,
+    "negative_count": 2,
+    "neutral_count": 6,
+    "institutional_flow": "NET_BUYING",
+    "headlines": [
+      {
+        "title": "ICICI Bank posts strong retail loan book growth",
+        "tone": "positive",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Brokerages raise target price after earnings beat",
+        "tone": "positive",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Some analysts flag stretched valuation after recent rally",
+        "tone": "negative",
+        "date": "2026-08-20"
+      }
+    ]
+  },
+  "SBIN": {
+    "positive_count": 10,
+    "negative_count": 4,
+    "neutral_count": 7,
+    "institutional_flow": "NET_BUYING",
+    "headlines": [
+      {
+        "title": "SBI reports strong quarterly profit growth on loan book expansion",
+        "tone": "positive",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "State Bank of India launches new digital lending platform",
+        "tone": "positive",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "Asset quality concerns linger in select agricultural loan segments",
+        "tone": "negative",
+        "date": "2026-08-19"
+      }
+    ]
+  }
+}

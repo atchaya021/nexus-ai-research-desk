@@ -1,0 +1,34 @@
+TATA CONSULTANCY SERVICES — Q1 FY27 EARNINGS SUMMARY (SIMULATED FILING)
+
+Revenue and Growth
+Constant-currency revenue growth was 4.2% year-on-year, at the lower end of management's historical
+guidance range. Growth was led by BFSI and Manufacturing verticals, while Retail and North America
+Communications remained soft due to continued discretionary spend caution among clients.
+
+Deal Pipeline
+Total contract value (TCV) bookings softened sequentially, with management attributing this to elongated
+decision cycles among large US enterprise clients amid macro uncertainty. TCS did win a large multi-year
+BFSI transformation deal in Europe during the quarter, partially offsetting the softer US pipeline.
+
+Profitability and Margins
+Operating margin remained industry-leading at 19.6%, supported by continued utilization discipline and
+pyramid optimization, though management noted incremental wage-hike costs will pressure margin in the
+subsequent quarter.
+
+People Metrics
+Voluntary attrition ticked up modestly quarter-on-quarter to 13.2% on a trailing-twelve-month basis,
+still well below pandemic-era peaks but a data point worth monitoring for wage cost trajectory.
+
+Balance Sheet
+The company remains effectively debt-free with a debt-to-equity ratio of 0.08x, and continues its
+practice of returning a high proportion of free cash flow to shareholders via dividends and buybacks.
+
+Valuation Context
+Trailing P/E of approximately 27.9x sits modestly above the IT services sector average of 26.0x,
+reflecting TCS's premium for scale, margin stability, and diversified client base.
+
+Risk Factors Disclosed
+- Client budget caution in North America and discretionary spend deferrals
+- Currency (USD/INR) volatility affecting reported revenue growth
+- Wage inflation and attrition-driven cost pressure
+- Increasing competitive intensity in AI-led service delivery models

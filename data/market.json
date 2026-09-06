@@ -1,0 +1,172 @@
+{
+  "RELIANCE": {
+    "name": "Reliance Industries",
+    "sector": "Energy/Conglomerate",
+    "technical": {
+      "price": 2945.6,
+      "previous_close": 2901.2,
+      "volume": 8452000,
+      "avg_volume_20d": 5210000,
+      "dma_20": 2880.4,
+      "dma_50": 2795.1,
+      "rsi_14": 64.2,
+      "volatility_30d": 18.4,
+      "momentum_10d": 3.1,
+      "week52_high": 3024.9,
+      "week52_low": 2220.3
+    },
+    "fundamental": {
+      "revenue_growth_yoy": 8.9,
+      "eps_growth_yoy": 11.2,
+      "profit_margin": 8.4,
+      "debt_to_equity": 0.41,
+      "pe_ratio": 24.8,
+      "sector_avg_pe": 22.1,
+      "next_earnings_date": "2026-10-18"
+    }
+  },
+  "TCS": {
+    "name": "Tata Consultancy Services",
+    "sector": "IT Services",
+    "technical": {
+      "price": 4102.15,
+      "previous_close": 4088.0,
+      "volume": 1890000,
+      "avg_volume_20d": 2100000,
+      "dma_20": 4150.6,
+      "dma_50": 4210.3,
+      "rsi_14": 41.8,
+      "volatility_30d": 12.1,
+      "momentum_10d": -1.4,
+      "week52_high": 4592.25,
+      "week52_low": 3660.0
+    },
+    "fundamental": {
+      "revenue_growth_yoy": 4.2,
+      "eps_growth_yoy": 3.1,
+      "profit_margin": 19.6,
+      "debt_to_equity": 0.08,
+      "pe_ratio": 27.9,
+      "sector_avg_pe": 26.0,
+      "next_earnings_date": "2026-10-09"
+    }
+  },
+  "INFOSYS": {
+    "name": "Infosys",
+    "sector": "IT Services",
+    "technical": {
+      "price": 1854.3,
+      "previous_close": 1841.75,
+      "volume": 6120000,
+      "avg_volume_20d": 5480000,
+      "dma_20": 1810.2,
+      "dma_50": 1795.6,
+      "rsi_14": 58.9,
+      "volatility_30d": 15.7,
+      "momentum_10d": 2.2,
+      "week52_high": 1953.9,
+      "week52_low": 1358.35
+    },
+    "fundamental": {
+      "revenue_growth_yoy": 6.1,
+      "eps_growth_yoy": 7.4,
+      "profit_margin": 17.2,
+      "debt_to_equity": 0.1,
+      "pe_ratio": 25.3,
+      "sector_avg_pe": 26.0,
+      "next_earnings_date": "2026-10-15"
+    }
+  },
+  "HDFCBANK": {
+    "name": "HDFC Bank",
+    "sector": "Banking",
+    "technical": {
+      "price": 1712.4,
+      "previous_close": 1705.9,
+      "volume": 9870000,
+      "avg_volume_20d": 8900000,
+      "dma_20": 1698.3,
+      "dma_50": 1665.2,
+      "rsi_14": 55.4,
+      "volatility_30d": 11.3,
+      "momentum_10d": 1.6,
+      "week52_high": 1791.4,
+      "week52_low": 1363.55
+    },
+    "fundamental": {
+      "revenue_growth_yoy": 10.4,
+      "eps_growth_yoy": 9.8,
+      "profit_margin": 22.1,
+      "debt_to_equity": 0.85,
+      "pe_ratio": 19.6,
+      "sector_avg_pe": 18.4,
+      "next_earnings_date": "2026-10-19"
+    }
+  },
+  "ICICIBANK": {
+    "name": "ICICI Bank",
+    "sector": "Banking",
+    "technical": {
+      "price": 1289.75,
+      "previous_close": 1301.1,
+      "volume": 7340000,
+      "avg_volume_20d": 6650000,
+      "dma_20": 1275.6,
+      "dma_50": 1240.9,
+      "rsi_14": 78.3,
+      "volatility_30d": 14.9,
+      "momentum_10d": 4.5,
+      "week52_high": 1361.75,
+      "week52_low": 1023.6
+    },
+    "fundamental": {
+      "revenue_growth_yoy": 13.2,
+      "eps_growth_yoy": 15.0,
+      "profit_margin": 24.6,
+      "debt_to_equity": 0.79,
+      "pe_ratio": 21.2,
+      "sector_avg_pe": 18.4,
+      "next_earnings_date": "2026-10-20"
+    }
+  },
+  "_indices": {
+    "NIFTY": {
+      "value": 25342.15,
+      "change_pct": 0.42
+    },
+    "SENSEX": {
+      "value": 83015.6,
+      "change_pct": 0.38
+    },
+    "BANKNIFTY": {
+      "value": 57210.8,
+      "change_pct": 0.61
+    }
+  },
+  "SBIN": {
+    "name": "State Bank of India",
+    "sector": "Banking",
+    "technical": {
+      "price": 812.4,
+      "previous_close": 805.1,
+      "volume": 11200000,
+      "avg_volume_20d": 9800000,
+      "dma_20": 798.6,
+      "dma_50": 776.3,
+      "rsi_14": 61.7,
+      "volatility_30d": 16.2,
+      "momentum_10d": 2.8,
+      "week52_high": 912.1,
+      "week52_low": 680.45
+    },
+    "fundamental": {
+      "revenue_growth_yoy": 11.8,
+      "eps_growth_yoy": 13.4,
+      "profit_margin": 20.3,
+      "debt_to_equity": 0.91,
+      "pe_ratio": 11.4,
+      "sector_avg_pe": 18.4,
+      "next_earnings_date": "2026-10-21"
+    }
+  }
+}
