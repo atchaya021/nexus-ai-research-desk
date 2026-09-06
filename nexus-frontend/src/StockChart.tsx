@@ -22,7 +22,7 @@ type StockChartProps = {
   ticker: string;
 };
 
-const API_BASE = "";
+const API_BASE = (import.meta.env.VITE_API_BASE ?? "").replace(/\/$/, "");
 
 function formatPrice(value: number | undefined) {
   if (value === undefined || Number.isNaN(value)) return "—";

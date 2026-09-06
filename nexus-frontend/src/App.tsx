@@ -4,8 +4,7 @@ import StockChart from "./StockChart";
 
 import "./App.css";
 
-const API_BASE =
-  "";
+const API_BASE = (import.meta.env.VITE_API_BASE ?? "").replace(/\/$/, "");
 
 type AgentResult = {
   name?: string;

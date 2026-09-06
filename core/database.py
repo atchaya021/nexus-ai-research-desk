@@ -8,7 +8,10 @@ import sqlite3
 import uuid
 import datetime as dt
 
-DB_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "database", "nexus.db")
+_LOCAL_DB_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "database", "nexus.db")
+# Vercel functions only permit runtime writes under /tmp. The database remains
+# local and persistent during development, while deployments remain functional.
+DB_PATH = os.getenv("NEXUS_DB_PATH") or ("/tmp/nexus.db" if os.getenv("VERCEL") else _LOCAL_DB_PATH)
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS sessions (

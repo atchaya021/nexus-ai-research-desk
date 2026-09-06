@@ -1,4 +1,6 @@
 streamlit>=1.36
+fastapi>=0.115
+uvicorn[standard]>=0.30
 pandas>=2.0
 numpy>=1.26
 plotly>=5.20
